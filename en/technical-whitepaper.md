@@ -1,6 +1,6 @@
 # CITA Technical Whitepaper
 
-Jan Xie
+Jan Xief
 
 Version 1.0
 
